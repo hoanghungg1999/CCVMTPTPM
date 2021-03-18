@@ -21,7 +21,7 @@ namespace WinFormsApp1
         {
 
         }
-        public int Tong(int a, int b);
+        public int Tong(int a, int b)
         {
             return a+b;
         }
