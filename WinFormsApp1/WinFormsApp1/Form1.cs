@@ -21,8 +21,8 @@ namespace WinFormsApp1
         {
 
         }
-        public int Tong(int a, int b)
-        {
+        public int Hieu(int a, int b)
+        {   //tong > hieu
             return a+b;
         }
         public bool login(string username, string password)
