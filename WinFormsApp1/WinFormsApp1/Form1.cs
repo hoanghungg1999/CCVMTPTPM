@@ -23,7 +23,7 @@ namespace WinFormsApp1
         }
         public int Tong(int a, int b);
         {
-            tong=a+b;
+            return a+b;
         }
         public bool login(string username, string password)
         {
